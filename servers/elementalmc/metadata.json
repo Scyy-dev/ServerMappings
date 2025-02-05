@@ -1,0 +1,32 @@
+{
+    "id": "elementalmc",
+    "name": "ElementalMC",
+    "store": "https://korraemc.tebex.io/",
+    "addresses": [
+        "elementalmc.live"
+    ],
+    "primaryAddress": "play.elementalmc.live",
+    "primaryColor": "#7a0fe8",
+    "secondaryColor": "#900000",
+    "minecraftVersions": [
+        "1.20.*",
+	"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+	"EU"
+    ],
+    "gameTypes": [
+        "Survival",
+	"Factions",
+	"PvP"
+    ],
+    "socials": {
+        "tiktok": "@korraemc",
+        "discord": "https://discord.gg/elementalmc-1220847061797179524",
+        "youtube": "KorraElementalMC",
+        "reddit": "ElementalMC"
+    }
+}
